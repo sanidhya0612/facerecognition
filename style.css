@@ -1,0 +1,23 @@
+body{
+    color:black;
+    background-color: aqua;
+
+}
+
+.heading{
+    width:75%;
+    font-size: 30px;
+
+}
+
+#camera{
+    border:2px dashed;
+    border-color: black;
+    width:350px;
+    height:300px;
+    
+}
+
+.name_of_the_objects ,#result_object_name, #result_accuracy{
+    color: orangered;
+}
